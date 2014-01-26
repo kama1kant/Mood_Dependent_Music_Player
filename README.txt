@@ -1,2 +1,1 @@
-The web application contains online music player, wide library with various categorizations according to 
-mood, artist and genre. It will recognize the taste of music of user and will accordingly suggest songs.
+The web application contains online music player, wide library with various categorizations according to mood, artist and genre. It will recognize the taste of music of user and will accordingly suggest songs.
